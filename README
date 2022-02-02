@@ -1,0 +1,22 @@
+Papoutsakis Nikolaos csd3035
+
+Sign up form
+Password:
+	We check that the password complete the requirements(at least 1 character,1 number and 1 symbol)
+	We can see what we type
+	We check that the password and the confirmation are the same
+	We can check the strenght of the password and print the right message(Here I don't have all the requirements) 
+Doctor:
+	If we choose the user to be a doctor, then extra options appear like type of doctor, infos and the address change to Clinic's address
+Amka:
+	We check that the first 6 digits match the date of birth
+CheckBox:
+	If not checked , there's a message reminding it
+
+Maps
+Address Verification:
+	We take the given address and check if it's in Crete and if it exist, if not the proper message pops.
+Show On Map:
+	We show the given address, with a marker, on the map
+Get Current Location:
+	We give our location(coords) and take back infos about our location.Then a marker set on the map, and the Address gets filled with those infos. 
